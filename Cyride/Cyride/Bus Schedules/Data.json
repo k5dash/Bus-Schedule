@@ -1,0 +1,84 @@
+{
+	"Weekday Routes":["#1 Red South & West","#1 Red East & North","#2 Green South & West","#2 Green East & North","#3 Blue South","#3 Blue North","#4 Gray","#4A Gray","#5 Yellow","#6 Brown South","#6 Brown North","#6A Brown (Towers)","#6B Brown (Mall)","#7 Purple","#10 Pink","#21 Cardinal","#22 Gold","#23 Orange"],
+	"Saturday Routes":["#1 Red South & West","#1 Red East & North","#2 Green South & West","#2 Green East & North","#3 Blue South","#3 Blue North","#5 Yellow","#6A Brown (Towers)","#6B Brown (Mall)"],
+	"Sunday Routes":["#1 Red South & West","#1 Red East & North","#2 Green South & West","#2 Green East & North","#3 Blue South","#3 Blue North","#6A Brown (Towers)","#24 Silver"],
+	"Duration":"August 13, 2012 to May 10, 2013",
+	"#1 Red South & West": {
+		"Color": {"Red":1,"Green":0,"Blue":0},
+		"Stops": ["North Grand Mall","Mary Greeley Hosp.","City Hall","L.Way & Beach","Kildee Hall","Beyer Hall","L.Way & Marshall","Ames Middle School"],
+		"Right Column": "1A",
+	},
+	"#1 Red East & North": {
+		"Color": {"Red":1,"Green":0,"Blue":0},
+		"Stops": ["Ames Middle School","L.Way & Beedle","State Gym","Kildee/ Bessey","L.Way & Beach","City Hall","Mary Greeley Hosp.","North Grand Mall"],
+		"Left Column": "1A",
+	},
+	"#2 Green South & West": {
+		"Color": {"Red":0,"Green":1,"Blue":0},
+		"Stops": ["North Grand Mall","Ames High School","9th & Grand","City Hall","Kildee Hall","Beyer Hall","Ontario & Garfld.","Ontario & Calif."],
+	},
+	"#2 Green East & North": {
+		"Color": {"Red":0,"Green":1,"Blue":0},
+		"Stops": ["Ontario & Calif.","Ontario & Garfld.","State Gym","Bessey Hall","City Hall","9th & Grand","Ames High School","North Grand Map"],
+	},
+	"#3 Blue South": {
+		"Color": {"Red":0,"Green":0,"Blue":1},
+        "Stops": ["North Grand Mall","#40 Schil- letter","#100 U.V.","Kildee Hall","Friley Shelter","Jack Trice Stadium","S. 3rd & S.Kellogg","River Birch"],
+	},
+	"#3 Blue North": {
+		"Color": {"Red":0,"Green":0,"Blue":1},
+        "Stops": ["River Birch Apts.","L.Way & Beach","Student Serv.","Bessey Hall","#100 U.V.","#40 Schil- letter","North Grand Mall"],
+	},
+	"#4 Gray": {
+		"Color": {"Red":0.5,"Green":0.5,"Blue":0.5},
+        "Stops": ["Blank","Blank","Blank","Blank","Blank"],
+	},
+	"#4A Gray": {
+		"Color": {"Red":0.5,"Green":0.5,"Blue":0.5},
+        "Stops": ["Blank","Blank","Blank","Blank","Blank"],
+	},
+	"#5 Yellow": {
+		"Color": {"Red":0.85,"Green":0.85,"Blue":0},
+        "Stops": ["Blank","Blank","Blank","Blank","Blank"],
+	},
+	"#6 Brown South": {
+		"Color": {"Red":0.6,"Green":0.4,"Blue":0.2},
+        "Stops": ["Blank","Blank","Blank","Blank","Blank"],
+	},
+	"#6 Brown North": {
+		"Color": {"Red":0.6,"Green":0.4,"Blue":0.2},
+        "Stops": ["Blank","Blank","Blank","Blank","Blank"],
+	},
+	"#6A Brown (Towers)": {
+		"Color": {"Red":0.6,"Green":0.4,"Blue":0.2},
+        "Stops": ["Blank","Blank","Blank","Blank","Blank"],
+	},
+	"#6B Brown (Mall)": {
+		"Color": {"Red":0.6,"Green":0.4,"Blue":0.2},
+        "Stops": ["Blank","Blank","Blank","Blank","Blank"],
+	},
+	"#7 Purple": {
+		"Color": {"Red":0.5,"Green":0,"Blue":0.5},
+        "Stops": ["Blank","Blank","Blank","Blank","Blank"],
+	},
+	"#10 Pink": {
+		"Color": {"Red":1,"Green":0.7,"Blue":0.8},
+        "Stops": ["Blank","Blank","Blank","Blank","Blank"],
+	},
+	"#21 Cardinal": {
+		"Color": {"Red":0.7,"Green":0,"Blue":0.2},
+        "Stops": ["#42 Frederiksen","Osborn/ Wallace","Student Services","Sweeney Hall","#42 Frederiksen"],
+	},
+	"#22 Gold": {
+		"Color": {"Red":1,"Green":0.7,"Blue":0},
+        "Stops": ["Blank","Blank","Blank","Blank","Blank"],
+	},
+	"#23 Orange": {
+		"Color": {"Red":1,"Green":0.4,"Blue":0},
+        "Stops": ["Blank","Blank","Blank","Blank","Blank"],
+	},
+	"#24 Silver": {
+		"Color": {"Red":0.5,"Green":0.5,"Blue":0.5},
+        "Stops": ["S Lots","RCA/UDA/TRA"],
+    }
+}
